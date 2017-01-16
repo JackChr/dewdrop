@@ -3,6 +3,7 @@ DewDrop - A Linux Droplr Client
 # Requirements
 * Python 2.7
 * Python: simplejson (`simplejson` from PIP; or `python-simplejson` from apt (Ubuntu))
+* Python: pynotify (sudo apt-get install python-notify (Ubuntu))
 
 # Contributors
 * Steve Gricci (@sgricci)
